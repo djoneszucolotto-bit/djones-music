@@ -1,0 +1,1 @@
+Djones Music com catálogo autorizado via Jamendo API. Abra Integrações, informe um Client ID gratuito do Jamendo e use Catálogo autorizado. Cada faixa exibe fonte e licença.
